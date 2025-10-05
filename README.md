@@ -4,6 +4,8 @@
 
 A custom bars theme for Volume Icon 0.4.6
 
+Speaker icon by [Freepik](https://www.flaticon.com/free-icons/speaker)
+
 [Git repo](https://github.com/jdulloa/Flux-Theme-for-Volume-Icon)
 
 ## Preview
